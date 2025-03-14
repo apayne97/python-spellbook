@@ -1,0 +1,15 @@
+name: python-spellbook
+channels:
+  - schrodinger
+  - salilab
+  - openeye
+  - conda-forge
+  - http://conda.anaconda.org/omnia
+  - defaults
+dependencies:
+  - python=3.11
+  - pydantic
+  - pyyaml
+  - ca-certificates
+  - openssl
+prefix: /Users/alexpayne/miniforge-pypy3/envs/python-spellbook
